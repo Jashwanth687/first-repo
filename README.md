@@ -1,3 +1,4 @@
 # first-repo
 
-just created repo to play with it
+Name: Jashwanth Reddy
+Favorite Actor: leonardo dicaprio
